@@ -1326,6 +1326,10 @@ video {
   padding-top: 2rem;
 }
 
+.pl-3 {
+  padding-left: 0.75rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1612,6 +1616,11 @@ video {
 .hover\:text-slate-900:hover {
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity, 1));
+}
+
+.hover\:text-\[\#0EA5E9\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(14 165 233 / var(--tw-text-opacity, 1));
 }
 
 .hover\:underline:hover {
